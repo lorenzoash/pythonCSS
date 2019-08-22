@@ -1,0 +1,227 @@
+ body {
+    /* height: 870px; */
+} 
+img {
+    margin-top: -100px;
+    width: 300px;
+    height: 70px;
+    margin-left: 18px;
+  
+}
+
+#wrapper {
+    width:970px;
+    height: 100%;
+    background-color: #245076;
+
+}
+.textSize {
+    color: white;
+    margin-left: 735px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin-bottom: 0;
+    margin-top: 0px;
+
+}
+a {
+    color: yellow;
+  
+}
+#search {
+    background-color: #444444;
+    width: 250px;
+    height:60px;
+    display: inline-block;
+    margin-left: 700px;
+    border-radius: 10px;
+    box-shadow: 3px 3px black ;
+}
+
+.search1 {
+    height: 30px;
+    width: 150px;
+    margin-top: 13px;
+    margin-left: 25px;
+    border-color: gray;
+    
+    display: inline-block;
+}
+button {
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    background-color:#245076;
+    border-style: ridge;
+    border-color: gray;
+    color: white;
+}
+/* #header {
+
+} */
+#nav {
+    display: inline-block;
+    background-image: radial-gradient(#3876ac,#477fad);
+    border-radius: 10px;
+    box-shadow: 3px 3px black ;
+    height: 50px;
+    margin-left: 100px;
+    width: 800px;
+    
+}
+h1 {
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-left: 40px;
+    
+}
+
+  .mainlist {
+    color: white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 17px;
+    text-align: center;
+    margin-right: 590px;
+  
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    /* display: inline-block; */
+    margin-left: 360px;
+   
+}
+p {
+    display: inline-block;
+    font-size: 12px;
+    vertical-align: top;
+    margin-left: 340px;
+    margin-top: -220px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.beautiful {
+    font-size: 18px;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+  margin-top: -170px;
+  margin-left: 450px;
+  
+}
+
+span {
+    color: white;
+}
+
+#getStarted {
+    width: 970px;
+    height: 250px;
+    background-color: white;
+    display: inline-block;
+}
+
+#box1 {
+    width: 350px;
+    height:5px;
+    background-color: #72a7d5;
+    display: inline-block;
+    margin-left: 80px;
+}
+#box2 {
+    width: 350px;
+    height:5px;
+    background-color: #72a7d5;
+    /* display: inline-block; */
+    margin-left: 580px;
+    margin-top: -230px;
+}
+h5 {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    margin-left: 190px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.application {
+    display: inline-block;
+    
+    text-align: center;
+    margin-left: 705px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ #Start {
+    text-align: center;
+    margin-top: 0;
+    color: black;
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.li-main {
+    font-size: 12px;
+    color: #9dc2e1;
+    margin-left: 0px;
+    text-align: center;
+    
+}
+
+#listStart {
+    color: #9dc2e1;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0;
+    margin-right: 500px;
+    font-size: 13px;
+    /* display: inline-block; */
+}
+#App {
+    color: black;
+    margin-left: 620px;
+    margin-top: 1px;
+    font-size: 13px;
+}
+ #listApp {
+     margin-top: 10px;
+     color: #9dc2e1;
+     font-family: Arial, Helvetica, sans-serif;
+     margin-left: 480px;
+     font-size: 13px;
+ }
+
+
+ /* .subcontent {
+     display: inline-block;
+ } */
+
+ .span2 {
+     color:  #9dc2e1;
+ }
+
+ #footer {
+     background-image: linear-gradient(#25547c, #3270a6);
+     width: 970px;
+     height: 100px;
+     display: inline-block;
+ }
+
+ h6 {
+     display: inline-block;
+     margin: 40px;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: #77aad5;
+     margin-left: 80px;
+ }
